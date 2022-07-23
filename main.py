@@ -240,4 +240,4 @@ async def unlock_error(ctx, error):
 keep_alive.keep_alive()
 token = os.environ.get("TOKEN")
 # Run the client on the server
-client.run('OTA1Nzg2MDY5MTU1NDY3MjY0.GT3tOn.B2_14ablHds_3kz3m51Iw3Pzhl50Bs7SNl7s14')
+client.run('TOKEN')
